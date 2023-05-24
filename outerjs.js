@@ -1,0 +1,1 @@
+alert('outer JavaScipt 실행')
